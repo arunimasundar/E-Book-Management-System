@@ -15,3 +15,7 @@ The administrator can also upload books and these can be viewed directly from th
 ![Image of Book Viewing](https://github.com/akshayrama/E-Book-Management-System/blob/master/ebookimg1.png)
 
 ![Image of uploading](https://github.com/akshayrama/E-Book-Management-System/blob/master/ebookimg2.png)
+
+#### Project done by:
+ - Arunima S
+ - Akshay Ramakrishnan
